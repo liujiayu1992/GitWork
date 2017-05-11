@@ -3,6 +3,7 @@ package com.test.ssh.entities;
 public class Department {
 	private Integer id;
 	private String departmentName;
+	
 	public Integer getId() {
 		return id;
 	}
